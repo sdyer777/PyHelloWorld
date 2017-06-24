@@ -2,3 +2,5 @@ Test file for git
 Second line added
 Third line added.
 Fourth line added.
+This is the fifth line, and another commit in stevebranch.  Will I squash these commits out?
+Sixth line, part of same local commit as fifth line above.
